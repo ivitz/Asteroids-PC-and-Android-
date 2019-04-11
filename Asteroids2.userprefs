@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\WorldGeneration.cs">
+    <Files>
+      <File FileName="Assets\Scripts\IObstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObstacleAsteroid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SaveData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="68" Column="17" />
+      <File FileName="Assets\Scripts\RotateObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\StaticVariables.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldGeneration.cs" Line="108" Column="6" />
+      <File FileName="Assets\Scripts\DestroyBehindPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ShipControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ItemBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ObjectPooler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
